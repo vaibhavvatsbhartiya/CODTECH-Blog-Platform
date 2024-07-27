@@ -1,3 +1,5 @@
+Name: Vaibhav Vats Id: CTDSP151 Domain: Full Stack Web Developer Position: Intern
+
 Here's the README file for the blogging platform:
 
 ---
